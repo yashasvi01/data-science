@@ -1,0 +1,44 @@
+# Q.1 
+A class is a user-defined blueprint or prototype from which objects are created
+class Demo:
+    pass
+An Object is an instance of a Class, a copy of the class with actual values.
+an object consists of state, identity & behaviour
+
+a = demo()
+ #instantiating object a with class demo
+
+# Q.2 four pillars of OOPS:
+inheritence
+polymorphism
+abstraction
+encapsulation
+
+# Q.3
+constructor help the class to take data
+__init__() is a in-built constructor used to initialize data members of a class
+
+eg:
+class animal:
+      def __init__(self, name):
+          self.name = name
+      
+      def msg(self):
+          print(self.name)
+a = animal("tiger")
+a.msg()
+
+# Q.4
+self keyword 
+when we create a method inside a class, a pointer or reference has to be  passed for the mclass to find the method
+The keyword self represents the instance of a class and binds the attributes with the given arguments.
+it is similar to this keyword in c++
+
+eg: 
+class demo:
+      def fun1(self):
+          print("this is fun1")
+a = demo()
+a.fun1()
+
+          
