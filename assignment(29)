@@ -1,0 +1,24 @@
+1.guido van rossum 
+2. python supports object oriented programming
+3. yes, python is case sensitive
+4. extension for python file .py
+5. python is both compiled and interpreted language
+7. # (hash/ pound) is used to give single linecomments
+8. to check python version on cmd/powershell:
+   python -V
+9. lambda functions   
+10. pip stands for pip installs packages, a recursive acronym
+11.some built in attributes: int(), iter(), max(), min(), next(), range()\
+12.maximum length of identifier is 79 characters
+13. benefits of python: user friendly code, easy to use, free and open source, security(OWASP)
+14.
+15.
+16. indentation is required in python
+
+
+
+
+
+
+
+
