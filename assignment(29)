@@ -11,8 +11,8 @@
 11.some built in attributes: int(), iter(), max(), min(), next(), range()\
 12.maximum length of identifier is 79 characters
 13. benefits of python: user friendly code, easy to use, free and open source, security(OWASP)
-14.
-15.
+14. HOW IS MEMORY MANAGED IN PY
+
 16. indentation is required in python
 
 
