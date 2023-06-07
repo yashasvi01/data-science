@@ -1,0 +1,17 @@
+1. get vs post methods
+the most commonly used http methods are get and post.
+GET is is used to retrieve data from server, it could be in the form format or json format.
+POST method is used to upload data to a server in the form of json file or form format.
+the information doesnt involve searching through url.
+
+2. REQUEST in flask is an object that contains all the data from client to server.
+this data can be dealt with using GET and POST methods
+some previously used methods: request.form, request.method, etc.
+
+3. import redirect
+2app.route("")
+def function1():
+    return redirect("link", code= 000)
+redirect() is used to send the user to a particular url with a status code of three digit.
+4. Flask provides us the render_template() function which can be used to render the external HTML file to be returned as the response from the view function.
+    
